@@ -7,6 +7,7 @@ This project contains a **custom implementation (not built-in)** of the **Fuzzy 
 The algorithm is implemented from scratch in Python and demonstrated in a Jupyter Notebook.
 
 ---
+```
 
 ##  Repository Structure
 
