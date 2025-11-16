@@ -13,6 +13,7 @@ The algorithm is implemented from scratch in Python and demonstrated in a Jupyte
 ```
 Fuzzy_C-Means/
 │
+
 ├── FCM_Algorithm.pdf          # Explanation of the FCM algorithm and formulas
 ├── FCM_Implementation.ipynb   # Full implementation + segmentation results
 ├── FCM_Report.pdf             # Full report including visuals, results, and discussion
