@@ -35,9 +35,9 @@ Project Overview
 
 ```
 
-* Implements the **Fuzzy C-Means** clustering algorithm from scratch
+* Implements the Fuzzy C-Means clustering algorithm from scratch
 * Segments images into soft clusters (each pixel has partial membership)
-* Provides **both fuzzy and hard segmentation outputs**
+* Provides both fuzzy and hard segmentation outputs
 * Includes:
 
   * Membership heatmaps
@@ -61,7 +61,7 @@ Implementation Details
 
 * Written in **Python**
 * Fully implemented in:
-  **`FCM_Implementation.ipynb`**
+  FCM_Implementation.ipynb
 * No external FCM libraries used
 * Run time:
 
@@ -74,7 +74,7 @@ Visual Results
 
 ```
 
-All generated visualizations are stored in the **`Visuals`** folder, including:
+All generated visualizations are stored in the Visuals folder, including:
 
 * Fuzzy membership maps
 * Hard segmentation results
@@ -87,8 +87,8 @@ Documentation
 
 ```
 
-* **FCM_Algorithm.pdf** — Complete Algorithm Explanation
-* **FCM_Report.pdf** — Implementation write-up + results + analysis
+* FCM_Algorithm.pdf — Complete Algorithm Explanation
+* FCM_Report.pdf — Implementation write-up + results + analysis
 
 ```
 
@@ -106,7 +106,7 @@ Author
 
 ```
 
-**Hadia Amjad**  
+Hadia Amjad 
 This project was developed as part of an assignment on fuzzy clustering and image segmentation.
 ```
 
