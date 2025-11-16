@@ -45,9 +45,6 @@ Project Overview
   * 3D color membership scatter plots (RGB)
   * Hard segmentation maps
 
----
-
-
 ```
 
 What is Fuzzy C-Means
@@ -56,9 +53,6 @@ What is Fuzzy C-Means
 
 Fuzzy C-Means is a clustering algorithm where each data point (pixel) can belong to multiple clusters with varying degrees (values in [0,1]), unlike k-means which forces hard assignment.
 It is especially useful for **soft boundaries** and **uncertain regions** in images.
-
----
-
 ```
 
 Implementation Details
@@ -74,8 +68,6 @@ Implementation Details
   * Grayscale image → converged in 51 iterations (~8 min)
   * RGB image → converged in 43 iterations (~44 min)
 
----
-
 ```
 
 Visual Results
@@ -89,8 +81,6 @@ All generated visualizations are stored in the **`Visuals`** folder, including:
 * Membership vs intensity curves
 * RGB 3D membership scatter plots
 
----
-
 ```
 
 Documentation
@@ -100,25 +90,15 @@ Documentation
 * **FCM_Algorithm.pdf** — Complete Algorithm Explanation
 * **FCM_Report.pdf** — Implementation write-up + results + analysis
 
----
-
 ```
 
 How to Run
 
 ```
 
-1. Open the notebook:
-
-```
-
-FCM_Implementation.ipynb
-
-```
+1. Open the notebook: FCM_Implementation.ipynb
 2. Run cells in order
 3. Results and visualizations will be generated automatically
-
----
 
 ```
 
