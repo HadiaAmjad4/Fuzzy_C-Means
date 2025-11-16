@@ -8,7 +8,7 @@ The algorithm is implemented from scratch in Python and demonstrated in a Jupyte
 
 ---
 ```
-
+```
 ##  Repository Structure
 
 Fuzzy_C-Means/  
@@ -31,7 +31,7 @@ Fuzzy_C-Means/
 
 
 
-
+```
 
 ```
 
