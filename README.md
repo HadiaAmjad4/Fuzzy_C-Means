@@ -1,6 +1,6 @@
 
 
-```markdown
+```
 # Fuzzy C-Means Image Segmentation
 
 This project contains a **custom implementation (not built-in)** of the **Fuzzy C-Means (FCM)** clustering algorithm, applied to both **grayscale and RGB image segmentation**.
@@ -36,7 +36,7 @@ Fuzzy_C-Means/
 
 ---
 
-## 🔍 Project Overview
+##Project Overview
 
 * Implements the **Fuzzy C-Means** clustering algorithm from scratch
 * Segments images into soft clusters (each pixel has partial membership)
