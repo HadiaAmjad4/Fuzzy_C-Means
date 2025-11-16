@@ -32,8 +32,6 @@ Fuzzy_C-Means/
 
 ```
 
----
-
 ##Project Overview
 
 
