@@ -32,7 +32,11 @@ Fuzzy_C-Means/
 
 ```
 
-## Project Overview
+```
+
+Project Overview
+
+```
 
 * Implements the **Fuzzy C-Means** clustering algorithm from scratch
 * Segments images into soft clusters (each pixel has partial membership)
@@ -47,14 +51,22 @@ Fuzzy_C-Means/
 ---
 
 
-## What is Fuzzy C-Means?
+```
+
+What is Fuzzy C-Means
+
+```
 
 Fuzzy C-Means is a clustering algorithm where each data point (pixel) can belong to multiple clusters with varying degrees (values in [0,1]), unlike k-means which forces hard assignment.
 It is especially useful for **soft boundaries** and **uncertain regions** in images.
 
 ---
 
-## Implementation Details
+```
+
+Implementation Details
+
+```
 
 * Written in **Python**
 * Fully implemented in:
@@ -67,7 +79,11 @@ It is especially useful for **soft boundaries** and **uncertain regions** in ima
 
 ---
 
-## Visual Results
+```
+
+Visual Results
+
+```
 
 All generated visualizations are stored in the **`Visuals`** folder, including:
 
@@ -78,14 +94,22 @@ All generated visualizations are stored in the **`Visuals`** folder, including:
 
 ---
 
-## Documentation
+```
+
+Documentation
+
+```
 
 * **FCM_Algorithm.pdf** — Complete Algorithm Explanation
 * **FCM_Report.pdf** — Implementation write-up + results + analysis
 
 ---
 
-## How to Run
+```
+
+How to Run
+
+```
 
 1. Open the notebook:
 
@@ -99,7 +123,11 @@ FCM_Implementation.ipynb
 
 ---
 
-## ✨ Author
+```
+
+Author
+
+```
 
 **Hadia Amjad**  
 This project was developed as part of an assignment on fuzzy clustering and image segmentation.
