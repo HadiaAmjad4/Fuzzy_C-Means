@@ -8,25 +8,26 @@ The algorithm is implemented from scratch in Python and demonstrated in a Jupyte
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
-```
-Fuzzy_C-Means/
-│
+Fuzzy_C-Means/  
+│  
+├── FCM_Algorithm.pdf          # Explanation of the FCM algorithm and formulas  
+├── FCM_Implementation.ipynb   # Full implementation + segmentation results  
+├── FCM_Report.pdf             # Full report including visuals, results, and discussion  
+│  
+├── Images/                    # Original input images (grayscale & RGB)  
+│   ├── milky-way-nvg.png  
+│   └── milky-way.png  
+│  
+└── Visuals/                   # Output visualizations (heatmaps, segmentations, 3D plots, etc.)  
+    ├── 3D_Cluster0.png  
+    ├── 3D_Cluster1.png  
+    ├── 3D_Cluster2.png  
+    ├── Greyscale_membership.png  
+    ├── Greyscale_output.png  
+    └── RGB_Segmentation.png  
 
-├── FCM_Algorithm.pdf          # Explanation of the FCM algorithm and formulas
-├── FCM_Implementation.ipynb   # Full implementation + segmentation results
-├── FCM_Report.pdf             # Full report including visuals, results, and discussion
-│
-├── Images/                    # Original input images (grayscale & RGB)
-│   ├── milky-way-nvg.png 
-│   └── milky-way.png 
-│
-└── Visuals/                   # Output visualizations (heatmaps, segmentations, 3D plots, etc.)
-    ├── 3D_Cluster0.png, 3D_Cluster1.png, 3D_Cluster2.png
-    ├── Greyscale_membership.png
-    ├── Greyscale_output.png
-    └── RGB_Segmentation
 
 
 
