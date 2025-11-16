@@ -1,13 +1,10 @@
-
-
-```
 # Fuzzy C-Means Image Segmentation
 
-This project contains a **custom implementation (not built-in)** of the **Fuzzy C-Means (FCM)** clustering algorithm, applied to both **grayscale and RGB image segmentation**.
+This project contains a **custom implementation (not built-in)** of the **Fuzzy C-Means (FCM)** clustering algorithm, applied to both **grayscale and RGB image segmentation**.  
 The algorithm is implemented from scratch in Python and demonstrated in a Jupyter Notebook.
 
 ---
-```
+
 ```
 ##  Repository Structure
 
