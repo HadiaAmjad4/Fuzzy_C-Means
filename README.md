@@ -39,6 +39,8 @@ Fuzzy_C-Means/
 
 ##Project Overview
 
+```
+
 * Implements the **Fuzzy C-Means** clustering algorithm from scratch
 * Segments images into soft clusters (each pixel has partial membership)
 * Provides **both fuzzy and hard segmentation outputs**
@@ -50,6 +52,7 @@ Fuzzy_C-Means/
   * Hard segmentation maps
 
 ---
+```
 
 ## What is Fuzzy C-Means?
 
